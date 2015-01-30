@@ -1,5 +1,6 @@
 #Ruby on Rails tutorial : sample blog appliction
-This is prictices  by gsky
+The heroku is [Here](https://polar-plains-9220.herokuapp.com/)
+This is practices  by gsky
 2015/01/30
 
 
